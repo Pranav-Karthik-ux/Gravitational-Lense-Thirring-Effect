@@ -1,6 +1,6 @@
 # Lense–Thirring Effect (Frame Dragging)
 
-![Lense–Thirring Orbital Precession](images/precession.png)
+![Lense–Thirring Orbital Precession](Theory\Lense–Thirring Orbital Precession.png)
 
 ## Overview
 
