@@ -1,6 +1,6 @@
 # Lense–Thirring Effect (Frame Dragging)
 
-![Lense–Thirring Orbital Precession](Theory\Lense–Thirring Orbital Precession.png)
+![Lense–Thirring Orbital Precession](images/Precession.png)
 
 ## Overview
 
@@ -85,7 +85,7 @@ This highlights the analogy between gravitational and electromagnetic fields.
 
 ## Orbital Precession
 
-![Orbital Precession](images/precession.png)
+![Orbital Precession](images/precession2.png)
 
 The gravitomagnetic field causes the orbital angular momentum to precess:
 
