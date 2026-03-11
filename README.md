@@ -96,7 +96,7 @@ where the Lense–Thirring precession rate is
 $$\vec{\Omega}_{LT} = \frac{4G\vec{S}}{r^{3}}$$
 
 ---
-
+![Full Deerivation](Theory/Report.pdf)
 ## Experimental Verification
 
 Satellite missions such as **LAGEOS** have measured the predicted frame-dragging effect caused by Earth's rotation.  
