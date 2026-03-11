@@ -1,6 +1,6 @@
 # Lense–Thirring Effect (Frame Dragging)
 
-![Lense–Thirring Orbital Precession](images/Precession.png)
+![Lense–Thirring Orbital Precession](Theory/Precession.png)
 
 ## Overview
 
@@ -26,7 +26,7 @@ where
 
 ## Gravitational Potential
 
-![Scalar Potential](images/potential.png)
+![Scalar Potential](Theory/Scalar_Potential.png)
 
 The Newtonian gravitational potential behaves similarly to the electric potential:
 
@@ -36,7 +36,7 @@ $$\Phi = -\frac{GM}{r}$$
 
 ## Gravitational Field
 
-![Scalar Field](images/gravitational_field.png)
+![Scalar Field](Theory/Figure_1.png)
 
 The gravitational acceleration is
 
@@ -48,7 +48,7 @@ This represents the dominant force governing orbital motion.
 
 ## Gravitomagnetic Vector Potential
 
-![Vector Potential](images/vector_potential.png)
+![Vector Potential](Theory/Figure_2.png)
 
 A rotating mass produces a vector potential analogous to the magnetic vector potential:
 
@@ -63,7 +63,7 @@ where
 
 ## Gravitomagnetic Field
 
-![Gravitomagnetic Field](images/gravitomagnetic_field.png)
+![Gravitomagnetic Field](Theory/Figure_3.png)
 
 Taking the curl of the vector potential produces the **gravitomagnetic field**:
 
@@ -85,7 +85,7 @@ This highlights the analogy between gravitational and electromagnetic fields.
 
 ## Orbital Precession
 
-![Orbital Precession](images/precession2.png)
+![Orbital Precession](Theory/Figure_6.png)
 
 The gravitomagnetic field causes the orbital angular momentum to precess:
 
